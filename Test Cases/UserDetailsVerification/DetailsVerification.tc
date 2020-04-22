@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>DetailsVerification</name>
+   <tag>GETUsersList</tag>
+   <comment></comment>
+   <testCaseGuid>b0447363-460e-4f8f-8132-af255041367c</testCaseGuid>
+   <variable>
+      <defaultValue>'test'</defaultValue>
+      <description></description>
+      <id>18fdc39d-8812-4af8-b304-62c6754077bf</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>

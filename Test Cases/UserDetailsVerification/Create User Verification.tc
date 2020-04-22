@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Create User Verification</name>
+   <tag>Create User</tag>
+   <comment></comment>
+   <testCaseGuid>abbf0ac5-c8d1-41fd-93d1-dd3528327e1d</testCaseGuid>
+</TestCaseEntity>
